@@ -14,9 +14,9 @@ SYS_CONFIG = {
     # 获取到的header中的user-agent值
     "header_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.27(0x18001b36) NetType/WIFI Language/zh_CN",
     # 设定的完成耗时，单位s，默认-1随机表示随机生成1s~1h之内的随机数，设置为正数则为固定
-    "cost_time": -1,
+    "cost_time": 5,
     # 需要通关的次数，默认1
-    "cycle_count": 1
+    "cycle_count": 1314
 }
 
 
